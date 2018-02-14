@@ -1,0 +1,2 @@
+# capital-small
+capital/small
